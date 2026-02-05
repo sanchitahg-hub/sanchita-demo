@@ -1,2 +1,3 @@
 # sanchita-demo
-This is my firrst git repository
+This is my first git repository
+Author-SANCHITA GHOSAL
